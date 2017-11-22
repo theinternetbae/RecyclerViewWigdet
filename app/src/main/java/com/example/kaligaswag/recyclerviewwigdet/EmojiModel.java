@@ -37,7 +37,7 @@ public class EmojiModel {
             EmojiModel emoji = new EmojiModel();
             emoji.setImageID(images[i]);
             emoji.setTitle("Picture " + i);
-            datalist.add(emoji)
+            datalist.add(emoji);
         }
         return datalist;
     }
