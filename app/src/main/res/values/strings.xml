@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RecyclerView Wigdet</string>
+    <string name="emoji1Desc">emoji1Desc</string>
+    <string name="title">Title</string>
+    <string name="deleteImageView">delete</string>
+    <string name="imageViewCopy">Copy</string>
 </resources>
